@@ -1,0 +1,16 @@
+.odd{
+    background-color: lightpink;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+#title-blue{
+    color: blue;
+    font-size: 36px;
+}
+.odd.two{
+    font-size: 24px;
+}
+#title-green{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
